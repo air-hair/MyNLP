@@ -1,1 +1,2 @@
-# MyNLP
+﻿# MyNLP
+NLP for some functions
